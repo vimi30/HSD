@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">HSD</string>
+    <string name="date">%s \u2022</string>
+    <string name="startEndTime"> &lt;b>%s&lt;/b> - %s</string>
+    <string name="partOfSeries">This trip is part of a series</string>
+    <string name="fare">$%.2f</string>
+    <string name="TripDescription">Trip ID: %d  \u2022  %.2f mi  \u2022  %d min</string>
+    <string name="estimatedFare">&lt;small>est.&lt;/small> $%.2f</string>
+    <string name="estimated">ESTIMATED</string>
+    <string name="location">%d. %s</string>
+    <string name="riders">%d riders</string>
+    <string name="rider">%d rider</string>
+    <string name="onlyRiders">(%s)</string>
+    <string name="riderAndBoosters">(%s \u2022 %s)</string>
+    <string name="booster">%d booster</string>
+    <string name="boosters">%d boosters</string>
+    <string name="pickup">Pickup</string>
+    <string name="drop_off">Drop-off</string>
+    <string name="cancel">Cancel This Trip</string>
+    <string name="icon">Icon</string>
+</resources>
